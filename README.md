@@ -4,6 +4,7 @@ Médias des publications Aaven (Instagram, TikTok), hébergés ici pour que Metr
 
 - Tout ce qui est dans ce dépôt est destiné à être publié : aucun fichier interne ou confidentiel.
 - Organisation : `ANNÉE-SSEMAINE/ID-DU-CONTENU/fichier` (ex. `2026-S40/AAV-11/slide-01.png`), l'ID étant celui de la base Notion CONTENT DATABASE.
-- Les visuels montrent de vraies pages Aaven, capturées sans retouche ; les noms des auteurs d'avis sont floutés.
-- Certains Reels contiennent aussi un enregistrement d'écran réel d'une page Aaven et la photo du vrai support NFC Aaven ; le geste (téléphone posé sur le support) est animé.
+- Les pages d'établissements (La Joya Beach, Yamas, Napa) sont de vraies pages Aaven, capturées ou enregistrées sur un téléphone, sans retouche ; seuls les noms des auteurs d'avis et un numéro de téléphone sont floutés.
+- Les exemples (PDF, QR codes, « Le Bistrot Exemple ») sont des maquettes d'un établissement fictif, toujours marquées « Exemple ».
+- Certains Reels contiennent un enregistrement d'écran d'une page Aaven ou une vidéo filmée du support NFC Aaven ; quand un appui est animé, la légende du post le dit.
 - Voix off : synthèse vocale ElevenLabs (voix « Kenzy »), déclarée comme contenu généré par IA sur Instagram et TikTok.
