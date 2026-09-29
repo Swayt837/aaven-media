@@ -5,3 +5,5 @@ Médias des publications Aaven (Instagram, TikTok), hébergés ici pour que Metr
 - Tout ce qui est dans ce dépôt est destiné à être publié : aucun fichier interne ou confidentiel.
 - Organisation : `ANNÉE-SSEMAINE/ID-DU-CONTENU/fichier` (ex. `2026-S40/AAV-11/slide-01.png`), l'ID étant celui de la base Notion CONTENT DATABASE.
 - Les visuels montrent de vraies pages Aaven, capturées sans retouche ; les noms des auteurs d'avis sont floutés.
+- Certains Reels contiennent aussi un enregistrement d'écran réel d'une page Aaven et la photo du vrai support NFC Aaven ; le geste (téléphone posé sur le support) est animé.
+- Voix off : synthèse vocale ElevenLabs (voix « Kenzy »), déclarée comme contenu généré par IA sur Instagram et TikTok.
